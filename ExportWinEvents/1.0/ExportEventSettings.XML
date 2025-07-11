@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<configuration>
+    <settings>
+        <property name = "log1" value="system" />
+        <property name = "log2" value="security" />
+        <property name = "log3" value="application" />
+    </settings>
+    <path>
+        <property name = "destinationpath" value= "C:\ArchiveEventLogs\" />
+    </path>
+</configuration>
